@@ -17,7 +17,8 @@
 
 ## Задание 2:
 
-Применить методы оптимизации для исследования полинома <img src="https://sun9-78.userapi.com/impg/C1zjatlH39PHBWCgQhWovYBt5koEhn5e6s7ilg/JB6SAbSBXa0.jpg?size=175x30&quality=96&sign=274cf84e0965702567340847e5745e48&type=album", где 
+Применить методы оптимизации для исследования полинома <img src="https://render.githubusercontent.com/render/math?math=z^2 + (6+5i)*z+(10+5i)">
+ где 
                                                             
 * n - количнство букв в имени
 * a - количество букв в фамилии.
