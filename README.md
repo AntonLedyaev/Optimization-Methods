@@ -21,11 +21,11 @@
 
 #### Время выполнения:
 
-![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/main/img/time.png)
+![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/master/img/time.png)
 
 #### Количество вызовов функции:
 
-![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/main/img/count.png)
+![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/master/img/count.png)
 
 ## Задание 2:
 
@@ -35,7 +35,7 @@
 * n - количнство букв в имени
 * a - количество букв в фамилии.
 
-![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/main/img/func2.png)
+![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/master/img/func2.png)
 
 Реализованы следующие методы:
 * Метод покоординатного спуска
@@ -45,7 +45,7 @@
 ## Задание 3:
 Реализовать метод условного градиента для функции <img src="https://render.githubusercontent.com/render/math?math=z^2 %2B (6 %2B 5i)z %2B (10 %2B 5i)">
 
-![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/main/img/func3.png)
+![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/master/img/func3.png)
 
 ### Результаты:
-![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/main/img/opt3.png)
+![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/master/img/opt3.png)
