@@ -17,7 +17,7 @@
 
 ## Задание 2:
 
-Применить методы оптимизации для исследования полинома <img src="https://render.githubusercontent.com/render/math?math=z^2 %2B {6 + 5i}*z + {10 x 5i}">
+Применить методы оптимизации для исследования полинома <img src="https://render.githubusercontent.com/render/math?math=z^2 %2B {6 %2B 5i}*z %2B {10 %2B 5i}">
  где 
                                                             
 * n - количнство букв в имени
