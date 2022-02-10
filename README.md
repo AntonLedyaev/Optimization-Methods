@@ -6,7 +6,7 @@
 * n - количнство букв в имени
 * a - количество букв в фамилии.
 
-![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/main/img/func.png)
+![Image alt](https://github.com/AntonLedyaev/Optimization-methods/raw/master/img/func.png)
 
 Реализованы следующие методы:
 * Пассивного поиска
