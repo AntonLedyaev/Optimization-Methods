@@ -1,5 +1,5 @@
 # Optimization-methods
-СПбГУ, ПМ-ПУ 2 семестр. Методы оптимизации.
+СПбГУ, ПМ-ПУ 3 семестр. Методы оптимизации.
 
 ## Задание 1: 
 Применить методы оптимизации для исследования функции <img src="https://render.githubusercontent.com/render/math?math=y = -\log_n x %2Be^{ax}">, где:
